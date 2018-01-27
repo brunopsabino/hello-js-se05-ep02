@@ -1,0 +1,20 @@
+{
+  "name": "hello-js-se05-ep02",
+  "version": "1.0.0",
+  "description": "Repositório da Aula 02 do HelloJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopsabino/hello-js-se05-ep02.git"
+  },
+  "keywords": [],
+  "author": "bruno.p.sabino@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunopsabino/hello-js-se05-ep02/issues"
+  },
+  "homepage": "https://github.com/brunopsabino/hello-js-se05-ep02#readme"
+}
